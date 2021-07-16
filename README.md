@@ -14,6 +14,6 @@ A set of custom and unofficial mime types for `xdg-mime`.
 1. Clone this repository.
 2. Execute `install.sh` BASH script.
 3. Get yourself a coffee ☕️... or better not, installation is so fast that
-   you will probably not even make it to leave your room before it finishes.
+   you will probably not even make it before it finishes.
 4. Logout and login to see changes for your current user.
 5. You're done! Enjoy extended MIME support 😄️.
