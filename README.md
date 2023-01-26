@@ -1,13 +1,14 @@
 # MIME Types
 
-A set of custom and unofficial mime types for `xdg-mime`.
+A set of custom and unofficial mime types for `xdg-mime`. Based on [`shared-mime-info`](https://gitlab.freedesktop.org/xdg/shared-mime-info)
+repository to keep some custom MIME types localized.
 
 ## Features
 
 - Implemented experimental / unofficial TypeScript MIME Type
-  (`application/x-typescript`);
+  (`application/x-typescript`; based on JavaScript MIME type).
 - Improved README MIME Type to make it detect other popular file names
-  as well (`text/x-readme-extended`);
+  as well (`text/x-readme-extended`; based on original README MIME type).
 
 ## Installation
 
